@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: 3b5c8737fcda585409a636da2ff0bb5b
+timeCreated: 1538196126
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rock-3_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rock-3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 213, y: -6.5}
+        - {x: 215, y: -2.5}
+        - {x: 227, y: 4.5}
+        - {x: 271, y: -10.5}
+        - {x: 299, y: -25.5}
+        - {x: 334, y: -26.5}
+        - {x: 364, y: -6.5}
+        - {x: 397, y: -31.5}
+        - {x: 400, y: -30.5}
+        - {x: 400, y: 81.5}
+        - {x: -400, y: 81.5}
+        - {x: -400, y: -50.5}
+        - {x: -387, y: -57.5}
+        - {x: -346, y: -38.5}
+        - {x: -342, y: -20.5}
+        - {x: -314, y: -29.5}
+        - {x: -287, y: -35.5}
+        - {x: -252, y: -53.5}
+        - {x: -212, y: -57.5}
+        - {x: -197, y: -52.5}
+        - {x: -169, y: -8.5}
+        - {x: -153, y: -15.5}
+        - {x: -145, y: -16.5}
+        - {x: -128, y: -31.5}
+        - {x: -88, y: -47.5}
+        - {x: -56, y: -45.5}
+        - {x: -28, y: -23.5}
+        - {x: -14, y: 1.5}
+        - {x: 40, y: -45.5}
+        - {x: 73, y: -61.5}
+        - {x: 105, y: -81.5}
+        - {x: 141, y: -81.5}
+        - {x: 163, y: -58.5}
+        - {x: 181, y: -44.5}
+        - {x: 199, y: -7.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

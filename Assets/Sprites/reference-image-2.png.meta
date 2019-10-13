@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 32f11009257c5774ca1d47d7ebcbfabb
+timeCreated: 1538779852
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: reference-image-2_0
+    21300002: reference-image-2_1
+    21300004: reference-image-2_2
+    21300006: reference-image-2_3
+    21300008: reference-image-2_4
+    21300010: reference-image-2_5
+    21300012: reference-image-2_6
+    21300014: reference-image-2_7
+    21300016: reference-image-2_8
+    21300018: reference-image-2_9
+    21300020: reference-image-2_10
+    21300022: reference-image-2_11
+    21300024: reference-image-2_12
+    21300026: reference-image-2_13
+    21300028: reference-image-2_14
+    21300030: reference-image-2_15
+    21300032: reference-image-2_16
+    21300034: reference-image-2_17
+    21300036: reference-image-2_18
+    21300038: reference-image-2_19
+    21300040: reference-image-2_20
+    21300042: reference-image-2_21
+    21300044: reference-image-2_22
+    21300046: reference-image-2_24
+    21300048: reference-image-2_23
+    21300050: reference-image-2_25
+    21300052: reference-image-2_26
+    21300054: reference-image-2_27
+    21300056: reference-image-2_28
+    21300058: reference-image-2_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: reference-image-2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1204
+        width: 113
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.616058, y: 57.544556}
+        - {x: -28.616058, y: 46.544556}
+        - {x: -28.616058, y: -48.455444}
+        - {x: -25.616058, y: -55.455444}
+        - {x: -17.616058, y: -58.455444}
+        - {x: 42.38394, y: -58.455444}
+        - {x: 42.38394, y: 51.544556}
+        - {x: 36.38394, y: 57.544556}
+    - name: reference-image-2_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 365
+        width: 108
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.07074, y: 57.606537}
+        - {x: -44.07074, y: 21.606537}
+        - {x: -44.07074, y: -42.393463}
+        - {x: -38.07074, y: -53.393463}
+        - {x: -29.07074, y: -59.393463}
+        - {x: 13.92926, y: -59.393463}
+        - {x: 44.92926, y: -2.3934631}
+        - {x: 44.92926, y: 52.606537}
+        - {x: 39.92926, y: 57.606537}
+    - name: reference-image-2_2
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 368
+        width: 120
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.1565857, y: 58.048492}
+        - {x: -42.156586, y: 14.048492}
+        - {x: -42.156586, y: -45.951508}
+        - {x: -41.156586, y: -49.951508}
+        - {x: -34.156586, y: -57.951508}
+        - {x: 15.843414, y: -57.951508}
+        - {x: 46.843414, y: -4.9515076}
+        - {x: 46.843414, y: 47.048492}
+        - {x: 29.843414, y: 58.048492}
+    - name: reference-image-2_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 367
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.65182495, y: 58.734497}
+        - {x: -23.651825, y: 47.734497}
+        - {x: -44.651825, y: 15.734497}
+        - {x: -44.651825, y: -42.265503}
+        - {x: -39.651825, y: -56.265503}
+        - {x: 5.348175, y: -56.265503}
+        - {x: 31.348175, y: -44.265503}
+        - {x: 43.348175, y: 16.734497}
+        - {x: 43.348175, y: 50.734497}
+        - {x: 35.348175, y: 58.734497}
+    - name: reference-image-2_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 373
+        width: 109
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.52704, y: 52.61844}
+        - {x: -7.4729614, y: 52.61844}
+        - {x: -26.472961, y: 47.61844}
+        - {x: -44.47296, y: 16.618439}
+        - {x: -44.47296, y: -46.38156}
+        - {x: -33.47296, y: -58.38156}
+        - {x: 16.527039, y: -58.38156}
+        - {x: 29.527039, y: -48.38156}
+        - {x: 44.52704, y: -4.3815613}
+        - {x: 44.52704, y: 41.61844}
+    - name: reference-image-2_5
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 365
+        width: 114
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.108093, y: 52.606537}
+        - {x: -15.108093, y: 51.606537}
+        - {x: -22.108093, y: 40.606537}
+        - {x: -45.108093, y: 0.60653687}
+        - {x: -45.108093, y: -24.393463}
+        - {x: -32.108093, y: -62.393463}
+        - {x: 29.891907, y: -62.393463}
+        - {x: 43.891907, y: -19.393463}
+        - {x: 43.891907, y: 43.606537}
+        - {x: 38.891907, y: 52.606537}
+    - name: reference-image-2_6
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 367
+        width: 104
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.3012695, y: 58.234497}
+        - {x: -17.30127, y: 47.234497}
+        - {x: -42.30127, y: 10.234497}
+        - {x: -42.30127, y: -24.765503}
+        - {x: -39.30127, y: -31.765503}
+        - {x: -22.30127, y: -56.765503}
+        - {x: 30.69873, y: -56.765503}
+        - {x: 42.69873, y: -7.765503}
+        - {x: 42.69873, y: 56.234497}
+        - {x: 37.69873, y: 58.234497}
+    - name: reference-image-2_7
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 370
+        width: 112
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.378357, y: 54.176483}
+        - {x: -44.378357, y: 3.1764832}
+        - {x: -44.378357, y: -35.823517}
+        - {x: -24.378357, y: -58.823517}
+        - {x: 37.621643, y: -58.823517}
+        - {x: 46.621643, y: -19.823517}
+        - {x: 46.621643, y: 53.176483}
+        - {x: 43.621643, y: 54.176483}
+    - name: reference-image-2_8
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 370
+        width: 109
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.257507, y: 51.676483}
+        - {x: -44.257507, y: 18.676483}
+        - {x: -44.257507, y: -36.323517}
+        - {x: -24.257507, y: -61.323517}
+        - {x: 27.742493, y: -61.323517}
+        - {x: 40.742493, y: -58.323517}
+        - {x: 45.742493, y: -28.323517}
+        - {x: 45.742493, y: 51.676483}
+    - name: reference-image-2_9
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 368
+        width: 113
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.078735, y: 54.548492}
+        - {x: -45.078735, y: 24.548492}
+        - {x: -45.078735, y: -46.451508}
+        - {x: -43.078735, y: -59.451508}
+        - {x: 46.921265, y: -59.451508}
+        - {x: 46.921265, y: 48.548492}
+        - {x: 41.921265, y: 54.548492}
+    - name: reference-image-2_10
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 368
+        width: 116
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.98413, y: 53.548492}
+        - {x: -23.01587, y: 53.548492}
+        - {x: -47.01587, y: 9.548492}
+        - {x: -47.01587, y: -23.451508}
+        - {x: -20.01587, y: -59.451508}
+        - {x: 8.984131, y: -59.451508}
+        - {x: 38.98413, y: -49.451508}
+        - {x: 47.98413, y: -28.451508}
+        - {x: 47.98413, y: 35.548492}
+    - name: reference-image-2_11
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 367
+        width: 128
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.96826, y: 56.734497}
+        - {x: -17.031738, y: 56.734497}
+        - {x: -21.031738, y: 47.734497}
+        - {x: -45.03174, y: -4.265503}
+        - {x: -45.03174, y: -17.265503}
+        - {x: -43.03174, y: -22.265503}
+        - {x: -16.031738, y: -57.265503}
+        - {x: 11.968262, y: -57.265503}
+        - {x: 40.96826, y: -43.265503}
+        - {x: 50.96826, y: -17.265503}
+        - {x: 50.96826, y: 55.734497}
+    - name: reference-image-2_12
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 371
+        width: 123
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.92688, y: 52.99048}
+        - {x: -19.07312, y: 52.99048}
+        - {x: -46.07312, y: -3.0095215}
+        - {x: -46.07312, y: -34.00952}
+        - {x: -19.07312, y: -58.00952}
+        - {x: 38.92688, y: -58.00952}
+        - {x: 49.92688, y: -52.00952}
+        - {x: 50.92688, y: -45.00952}
+        - {x: 50.92688, y: 49.99048}
+    - name: reference-image-2_13
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 367
+        width: 122
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.754395, y: 53.234497}
+        - {x: -44.754395, y: 10.234497}
+        - {x: -49.754395, y: -3.765503}
+        - {x: -49.754395, y: -32.765503}
+        - {x: -29.754395, y: -59.765503}
+        - {x: 39.245605, y: -59.765503}
+        - {x: 46.245605, y: -25.765503}
+        - {x: 46.245605, y: 46.234497}
+        - {x: 32.245605, y: 53.234497}
+    - name: reference-image-2_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 214
+        width: 120
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.072327, y: 55.693954}
+        - {x: -44.072327, y: 23.693954}
+        - {x: -44.072327, y: -33.306046}
+        - {x: -39.072327, y: -55.306046}
+        - {x: 14.927673, y: -55.306046}
+        - {x: 49.927673, y: -24.306046}
+        - {x: 49.927673, y: 41.693954}
+        - {x: 46.927673, y: 55.693954}
+    - name: reference-image-2_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 211
+        width: 132
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.496033, y: 56.751984}
+        - {x: -47.496033, y: 9.751984}
+        - {x: -47.496033, y: -31.248016}
+        - {x: -38.496033, y: -50.248016}
+        - {x: -29.496033, y: -58.248016}
+        - {x: 25.503967, y: -58.248016}
+        - {x: 53.503967, y: -11.248016}
+        - {x: 53.503967, y: 28.751984}
+        - {x: 37.503967, y: 56.751984}
+    - name: reference-image-2_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 209
+        width: 122
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.58029, y: 57.62401}
+        - {x: -16.419708, y: 57.62401}
+        - {x: -45.41971, y: 31.624008}
+        - {x: -45.41971, y: -58.37599}
+        - {x: 23.580292, y: -58.37599}
+        - {x: 50.58029, y: -20.375992}
+        - {x: 50.58029, y: 27.624008}
+        - {x: 40.58029, y: 53.62401}
+    - name: reference-image-2_17
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 211
+        width: 127
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.468994, y: 56.751984}
+        - {x: 0.46899414, y: 56.751984}
+        - {x: -26.531006, y: 45.751984}
+        - {x: -44.531006, y: 7.7519836}
+        - {x: -44.531006, y: -20.248016}
+        - {x: -34.531006, y: -58.248016}
+        - {x: 8.468994, y: -58.248016}
+        - {x: 52.468994, y: -9.248016}
+        - {x: 52.468994, y: 31.751984}
+        - {x: 50.468994, y: 43.751984}
+    - name: reference-image-2_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 208
+        width: 119
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.799683, y: 55.310013}
+        - {x: -22.200317, y: 55.310013}
+        - {x: -45.200317, y: 10.310013}
+        - {x: -45.200317, y: -24.689987}
+        - {x: -39.200317, y: -56.689987}
+        - {x: -26.200317, y: -59.689987}
+        - {x: -21.200317, y: -60.689987}
+        - {x: 13.799683, y: -60.689987}
+        - {x: 49.799683, y: -14.689987}
+        - {x: 49.799683, y: 50.310013}
+    - name: reference-image-2_19
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 211
+        width: 122
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.939575, y: 53.751984}
+        - {x: -26.939575, y: 46.751984}
+        - {x: -44.939575, y: 18.751984}
+        - {x: -44.939575, y: -41.248016}
+        - {x: -33.939575, y: -60.248016}
+        - {x: 38.060425, y: -60.248016}
+        - {x: 44.060425, y: -45.248016}
+        - {x: 44.060425, y: 53.751984}
+    - name: reference-image-2_20
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 209
+        width: 103
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.8632812, y: 52.12401}
+        - {x: -10.863281, y: 51.12401}
+        - {x: -30.863281, y: 39.12401}
+        - {x: -40.86328, y: -1.8759918}
+        - {x: -40.86328, y: -33.87599}
+        - {x: -26.863281, y: -60.87599}
+        - {x: 32.13672, y: -60.87599}
+        - {x: 41.13672, y: -40.87599}
+        - {x: 41.13672, y: 44.12401}
+        - {x: 30.136719, y: 52.12401}
+    - name: reference-image-2_21
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 203
+        width: 102
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.882324, y: 56.740067}
+        - {x: -29.882324, y: 52.740067}
+        - {x: -37.882324, y: -2.2599335}
+        - {x: -37.882324, y: -29.259933}
+        - {x: -25.882324, y: -63.259933}
+        - {x: 41.117676, y: -63.259933}
+        - {x: 41.117676, y: 50.740067}
+        - {x: 38.117676, y: 56.740067}
+    - name: reference-image-2_22
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 203
+        width: 131
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.784546, y: 57.240067}
+        - {x: -14.215454, y: 57.240067}
+        - {x: -34.215454, y: 30.240067}
+        - {x: -44.215454, y: 1.2400665}
+        - {x: -44.215454, y: -29.759933}
+        - {x: -18.215454, y: -62.759933}
+        - {x: 28.784546, y: -62.759933}
+        - {x: 50.784546, y: -29.759933}
+        - {x: 50.784546, y: 15.240067}
+        - {x: 44.784546, y: 40.240067}
+    - name: reference-image-2_24
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 200
+        width: 114
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.697144, y: 59.798096}
+        - {x: -16.302856, y: 59.798096}
+        - {x: -46.302856, y: 6.7980957}
+        - {x: -46.302856, y: -24.201904}
+        - {x: -20.302856, y: -58.201904}
+        - {x: 30.697144, y: -58.201904}
+        - {x: 46.697144, y: -32.201904}
+        - {x: 46.697144, y: 27.798096}
+        - {x: 43.697144, y: 45.798096}
+    - name: reference-image-2_23
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 205
+        width: 122
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.527832, y: 44.368042}
+        - {x: 32.527832, y: 58.368042}
+        - {x: -9.472168, y: 58.368042}
+        - {x: -27.472168, y: 55.368042}
+        - {x: -47.472168, y: 32.368042}
+        - {x: -47.472168, y: -35.631958}
+        - {x: -26.472168, y: -58.631958}
+        - {x: 37.527832, y: -58.631958}
+        - {x: 50.527832, y: -24.631958}
+        - {x: 50.527832, y: 28.368042}
+    - name: reference-image-2_25
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 204
+        width: 127
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.397461, y: 55.55406}
+        - {x: -24.39746, y: 48.55406}
+        - {x: -46.39746, y: 7.554062}
+        - {x: -46.39746, y: -35.44594}
+        - {x: -39.39746, y: -61.44594}
+        - {x: 36.60254, y: -61.44594}
+        - {x: 51.60254, y: -35.44594}
+        - {x: 51.60254, y: 38.55406}
+        - {x: 37.60254, y: 55.55406}
+    - name: reference-image-2_26
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 206
+        width: 119
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.740845, y: 55.682037}
+        - {x: -45.740845, y: -1.3179626}
+        - {x: -45.740845, y: -39.317963}
+        - {x: -32.740845, y: -59.317963}
+        - {x: 29.259155, y: -59.317963}
+        - {x: 47.259155, y: -31.317963}
+        - {x: 47.259155, y: 37.682037}
+        - {x: 38.259155, y: 55.682037}
+    - name: reference-image-2_27
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 208
+        width: 122
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.608032, y: 51.310013}
+        - {x: -43.608032, y: 12.310013}
+        - {x: -43.608032, y: -32.689987}
+        - {x: -26.608032, y: -61.689987}
+        - {x: 39.391968, y: -61.689987}
+        - {x: 47.391968, y: -34.689987}
+        - {x: 47.391968, y: 43.310013}
+        - {x: 40.391968, y: 51.310013}
+    - name: reference-image-2_28
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 209
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.03662, y: 50.12401}
+        - {x: -16.963379, y: 50.12401}
+        - {x: -29.963379, y: 29.124008}
+        - {x: -40.96338, y: 1.1240082}
+        - {x: -45.96338, y: -11.875992}
+        - {x: -45.96338, y: -31.875992}
+        - {x: -34.96338, y: -56.87599}
+        - {x: -24.963379, y: -61.87599}
+        - {x: 19.036621, y: -61.87599}
+        - {x: 27.036621, y: -58.87599}
+        - {x: 44.03662, y: -26.875992}
+        - {x: 44.03662, y: 42.12401}
+    - name: reference-image-2_29
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 206
+        width: 115
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.91333, y: 53.682037}
+        - {x: -3.08667, y: 53.682037}
+        - {x: -28.08667, y: 48.682037}
+        - {x: -47.08667, y: 16.682037}
+        - {x: -47.08667, y: -27.317963}
+        - {x: -25.08667, y: -61.317963}
+        - {x: 4.91333, y: -61.317963}
+        - {x: 26.91333, y: -57.317963}
+        - {x: 44.91333, y: -24.317963}
+        - {x: 44.91333, y: 41.682037}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

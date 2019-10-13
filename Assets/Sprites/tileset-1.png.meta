@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: cbeadf0721cb4d649ac12b1a6556072d
+timeCreated: 1538197528
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tileset-1_0
+    21300002: tileset-1_1
+    21300004: tileset-1_2
+    21300006: tileset-1_3
+    21300008: tileset-1_4
+    21300010: tileset-1_5
+    21300012: tileset-1_6
+    21300014: tileset-1_7
+    21300016: tileset-1_8
+    21300018: tileset-1_9
+    21300020: tileset-1_10
+    21300022: tileset-1_11
+    21300024: tileset-1_12
+    21300026: tileset-1_13
+    21300028: tileset-1_14
+    21300030: tileset-1_15
+    21300032: tileset-1_16
+    21300034: tileset-1_17
+    21300036: tileset-1_18
+    21300038: tileset-1_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tileset-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 207
+        height: 129
+      alignment: 9
+      pivot: {x: 0.4943564, y: 0.5452803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.66823, y: 45.658844}
+        - {x: 104.66823, y: 58.658844}
+        - {x: -79.33177, y: 58.658844}
+        - {x: -85.33177, y: 47.658844}
+        - {x: -99.33177, y: 2.658844}
+        - {x: -102.33177, y: -9.341156}
+        - {x: -102.33177, y: -70.341156}
+        - {x: 104.66823, y: -70.341156}
+        - {x: 104.66823, y: 17.658844}
+        - {x: 102.66823, y: 39.658844}
+    - name: tileset-1_1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 427
+        width: 148
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 66.5}
+        - {x: -74, y: 49.5}
+        - {x: -74, y: 12.5}
+        - {x: -50, y: -65.5}
+        - {x: -43, y: -66.5}
+        - {x: 74, y: -66.5}
+        - {x: 74, y: 66.5}
+    - name: tileset-1_2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 412
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -23}
+        - {x: 7.5, y: -23}
+        - {x: 29.5, y: -7}
+        - {x: 29.5, y: 21}
+        - {x: 27.5, y: 25}
+        - {x: -15.5, y: 25}
+        - {x: -27.5, y: 23}
+        - {x: -28.5, y: 19}
+    - name: tileset-1_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 416
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 19.5}
+        - {x: 33, y: 20.5}
+        - {x: -38, y: 20.5}
+        - {x: -46, y: 8.5}
+        - {x: -46, y: -20.5}
+        - {x: 45, y: -20.5}
+        - {x: 45, y: -15.5}
+        - {x: 43, y: -8.5}
+    - name: tileset-1_4
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 465
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -40, y: -4.5}
+        - {x: -40, y: -30.5}
+        - {x: 40, y: -30.5}
+        - {x: 40, y: 13.5}
+        - {x: 28, y: 30.5}
+    - name: tileset-1_5
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 420
+        width: 23
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tileset-1_6
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 352
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tileset-1_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 336
+        width: 69
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tileset-1_8
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 351
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 26.5}
+        - {x: -11, y: 14.5}
+        - {x: -34, y: -23.5}
+        - {x: -34, y: -28.5}
+        - {x: 34, y: -28.5}
+        - {x: 34, y: 25.5}
+        - {x: 31, y: 26.5}
+    - name: tileset-1_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 334
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 14}
+        - {x: -33.5, y: -16}
+        - {x: 33.5, y: -16}
+        - {x: 33.5, y: 7}
+        - {x: 28.5, y: 14}
+    - name: tileset-1_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 334
+        width: 64
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 3}
+      outline: []
+    - name: tileset-1_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 335
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tileset-1_12
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 246
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tileset-1_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 399
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: tileset-1_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 401
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 34}
+        - {x: -41, y: -34}
+        - {x: 41, y: -34}
+        - {x: 41, y: 34}
+    - name: tileset-1_15
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 128
+        width: 111
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 40}
+        - {x: -55.5, y: 32}
+        - {x: -55.5, y: -26}
+        - {x: -37.5, y: -40}
+        - {x: 26.5, y: -40}
+        - {x: 55.5, y: -32}
+        - {x: 55.5, y: 40}
+    - name: tileset-1_16
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 365
+        width: 113
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 15.5}
+        - {x: 35.5, y: 14.5}
+        - {x: 32.5, y: 7.5}
+        - {x: 34.5, y: 11.5}
+        - {x: 34.5, y: 12.5}
+        - {x: 32.5, y: 19.5}
+        - {x: 42.5, y: 19.5}
+        - {x: 50.5, y: 28.5}
+        - {x: 34.5, y: 49.5}
+        - {x: -49.5, y: 49.5}
+        - {x: -56.5, y: 34.5}
+        - {x: -56.5, y: 9.5}
+        - {x: -55.5, y: 1.5}
+        - {x: -26.5, y: -48.5}
+        - {x: 44.5, y: -48.5}
+        - {x: 56.5, y: -16.5}
+        - {x: 56.5, y: 6.5}
+        - {x: 41.5, y: 15.5}
+      - - {x: 3.5, y: 47.5}
+        - {x: 3.5, y: 49.5}
+        - {x: -1.5, y: 49.5}
+        - {x: 0.5, y: 46.5}
+    - name: tileset-1_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 463
+        width: 210
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 43}
+        - {x: -102, y: 34}
+        - {x: -105, y: -39}
+        - {x: -105, y: -43}
+        - {x: 105, y: -43}
+        - {x: 105, y: -30}
+        - {x: 90, y: 42}
+        - {x: 86, y: 43}
+    - name: tileset-1_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 417
+        width: 32
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 45.5}
+        - {x: -16, y: -36.5}
+        - {x: -8, y: -51.5}
+        - {x: 12, y: -51.5}
+        - {x: 16, y: -49.5}
+        - {x: 16, y: 44.5}
+        - {x: 15, y: 45.5}
+    - name: tileset-1_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 529
+        width: 99
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

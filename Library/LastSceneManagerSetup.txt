@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Escenas/Escenario 2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Escenas/Escenario.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Escenas/Menu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Escenas/GameOver.unity
+  isLoaded: 0
+  isActive: 0
